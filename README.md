@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @annazhang01
+- 👀 I’m interested in music and pet keeping
+- 🌱 I’m currently learning Biology
+- 💞️ I’m looking to collaborate on Bioinformatics
+- 📫 How to reach me: zhangyazhi@stu.pku.edu.cn
